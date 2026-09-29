@@ -52,6 +52,14 @@ An online comprehensive Regular Expression pattern testing application.
 
 ## Tooling
 
+### uv
+
+---
+
+## Miscellaneous
+
+### Obsidian
+
 ---
 
 ## Snippets
