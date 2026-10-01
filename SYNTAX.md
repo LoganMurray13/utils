@@ -44,13 +44,17 @@ An online comprehensive Regular Expression pattern testing application.
 
 ### JavaScript
 
-### Python
+### Python [Snippets](#python-snippets)
 
 ### Rust
 
 ---
 
 ## Tooling
+
+### pip
+
+### ruff
 
 ### uv
 
@@ -63,3 +67,5 @@ An online comprehensive Regular Expression pattern testing application.
 ---
 
 ## Snippets
+
+### Python
